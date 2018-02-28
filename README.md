@@ -1,2 +1,3 @@
 # gitSkills
-create dev is easy & quick
+create dev is easy and quick
+
